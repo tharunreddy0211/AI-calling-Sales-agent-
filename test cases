@@ -1,0 +1,570 @@
+test 1:
+
+agent: Hello, I’m Sofia, an AI assistant calling from TKR. Am I speaking with Pranai?
+user: Yeah. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to 
+user: Yeah. 
+agent: seventy-five lakh rupees. I’d like to ask a few quick questions to see if it suits you. What type of property do you have: residential, commercial, 
+user: It's 
+agent: or industrial?
+user: a residential property jointly owned by me and my wife, and it's worth around 1.2 crores. 
+agent: Thank you. Are the original property documents available for verification?
+user: Yes. 
+agent: How much would 
+user: 75 
+agent: you like to borrow?
+user: lakhs. 
+agent: Are you salaried or self-employed, and is 
+user: Sorry. Unincome comes into my bank account. 
+agent: Got it. Are you salaried or self-employed?
+user: Salary. 
+agent: What’s the approximate current market value of the property?
+user: 1.2 crores. 
+agent: Over how many 
+user: 15 years. 
+agent: years would you like to repay the loan?
+agent: Thank you for sharing the details. Based on your answers, you appear to meet the basic requirements for this offer. A senior loan expert will call you shortly with the exact interest rates and 
+agent: next steps. Thank you.
+
+test 2:
+
+agent: Hello, I’m Sofia, an AI assistant calling from TKR.
+user: Yeah. 
+agent: Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good 
+user: Yes. 
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it suits you.
+user: Okay. 
+agent: What type of property do you have: 
+user: What is the 
+agent: residential, commercial, or industrial?
+user: interest rate? 
+agent: I don’t have the exact interest rates; a senior loan expert will explain them after this basic check. What type of property do you have?
+agent: Just checking 
+user: Okay, thank you. 
+user: Yes. 
+agent: What type of property do you have: residential, commercial, or industrial?
+user: I'll let you know only after I'm knowing the interest rate. 
+agent: I understand. The senior loan expert can share the exact rate, but I need these basic details first to check whether the 
+user: Without 
+agent: offer suits you. What type of property do you have?
+user: knowing the interest rate, I won't tell you the basic details also. 
+agent: I understand. Without the basic details, I can’t check eligibility for this offer. Thank you for your time, and you’re welcome to contact TKR 
+agent: if you change your mind.
+
+test 3:
+
+agent: Hello, I’m Sofia, an AI assistant calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time to 
+user: Yes. 
+agent: talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if 
+user: Okay. 
+agent: it suits you.
+agent: What type of property would you use: residential, commercial, or industrial?
+user: Presidential. 
+agent: Is the property solely owned by you, or jointly owned with someone else?
+user: Solely owned by me. 
+user: Yes. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much 
+user: 75 
+agent: would you like to borrow?
+user: lakhs. 
+agent: Are you salaried or self-employed, and does your income come 
+user: I don't want to 
+agent: into your bank account or in cash?
+user: disclose this. 
+agent: I understand. These are basic details needed to check whether the offer suits you. Would you prefer a callback from a senior loan expert?
+agent: Just checking 
+user: No. 
+agent: No problem. We’ll stop here. Thank you for your time.
+user: Thank you. 
+agent: Thank you, take care.
+
+test 4:
+
+agent: Hello, I’m Sofia, an AI assistant calling from TKR. Am I speaking with Pranai?
+user: Yeah. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it suits you.
+user: Yeah. 
+agent: What type of property would you like to use: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you, or jointly owned with someone else?
+user: Solely owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would 
+user: 70 
+agent: you like to borrow?
+user: lakhs. 
+agent: Are you salaried or self-employed, and does your income come into your 
+user: Salary and income 
+agent: bank account or in cash?
+user: comes into my bank account. 
+agent: What’s the approximate current market value of the property?
+user: 95 lakhs. 
+agent: How many years would you 
+user: 17 
+agent: like to take to repay the loan?
+user: years. 
+agent: I’m sorry, but this offer is available for repayment terms between three and fifteen years, so you don’t meet the criteria at this 
+agent: time. Thank you for your time.
+
+test 5:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Are you a scammer? 
+agent: I’m Sofia, an AI assistant calling on behalf of TKR about a personal offer. Am I speaking with Pranai?
+user: Which branch of TKR? 
+agent: I don’t have branch details, but a senior loan expert can help with that. Am I speaking with Pranai?
+user: So you're not a scammer, not a loan expert, you're just an AI agent. How can I believe you? 
+agent: I understand your concern. I’m an AI assistant for TKR, and I can only share basic offer information; a senior loan expert handles the detailed discussion. Are you speaking as Pranai?
+user: Are you trying to steal my data? 
+agent: No. I won’t ask for passwords, OTPs, PINs, card details, or full bank details. This is only a basic eligibility check for an offer; are you Pranai?
+user: Yeah, I'm Pranav. 
+agent: Sorry, I was trying to reach Pranai. Is Pranai available, or is there a better time I could call back?
+user: Yeah, I am Pranay. 
+agent: Could you confirm whether your name is Pranai, the person this call is for?
+user: Yeah, my name is Pranay. 
+agent: Sorry, I was trying to reach Pranai. Is Pranai available, or is there a better time I 
+user: I am 
+agent: could call back?
+user: Pranay. 
+agent: I’m sorry, I need to speak with Pranai. Is Pranai available, or should I call 
+user: Yeah, 
+agent: back at another time?
+user: it's me. 
+agent: I’m sorry, I need to speak with Pranai. Is Pranai available, or should I 
+user: I am 
+agent: call back at another time?
+user: Pranay. 
+agent: I’m sorry, I need to speak with Pranai. Is Pranai available, or should I call 
+user: Call back at 
+agent: back at another time?
+user: another time. 
+agent: What time would be convenient 
+user: I don't 
+agent: for a callback?
+user: know whether he is available. 
+agent: No problem. I’ll try calling Pranai again another time. Thank you.
+user: Thank you. 
+agent: Thank you, take care.
+
+test 6:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick 
+user: Okay. 
+agent: questions to see if it suits you?
+agent: What type of property is it: residential, commercial, or industrial?
+user: Residential. No, no, wait, wait, it's agricultural. 
+agent: I’m sorry, but agricultural property doesn’t meet the criteria for this specific offer at this time. Thank you for your 
+agent: time.
+
+test 7:
+
+agent: Hello, this is Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time 
+user: Yeah. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to 
+user: Okay. 
+agent: see if it suits you.
+agent: What type of property is it: residential, commercial, or industrial?
+user: Presidential. 
+agent: Sorry, I didn't catch the property type. Is it residential, commercial, or industrial?
+user: Presidential. 
+agent: Did you mean a residential property?
+user: Yes. 
+agent: Is the property solely owned 
+user: Do we know the interest 
+agent: by you or jointly owned with someone else?
+user: rate? 
+agent: The exact interest rate will be shared by a senior loan expert after this quick preliminary check. Is the property solely owned by you or jointly owned with someone else?
+user: Jointly owned with my wife. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to borrow?
+user: 74 lakhs. 
+agent: Are you salaried or self-employed, and does your income come into your 
+user: Self-employed 
+agent: bank account or in cash?
+user: income comes to in my bank. 
+agent: What’s the approximate current market value of the property?
+user: 1.2 crores. 
+agent: How many years would you like 
+user: One 
+agent: to repay the loan over?
+user: year. 
+agent: I’m sorry, but a one-year repayment period doesn’t meet the criteria for this specific offer. Thank you for your 
+agent: time.
+
+test 8:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: No. 
+agent: I’m sorry. Is Pranai available, or is there a better time I could call back?
+user: Yeah, 
+agent: Could 
+user: he's available. 
+agent: Please hand the phone to Pranai.
+user: Yeah, I'm trying. 
+agent: Take your time. Please let me know when Pranai is 
+user: Hi, I 
+agent: on the line.
+user: am Pranay. 
+agent: Hi Pranay, I’m Sofia from TKR. Is this a good time to 
+user: No. 
+agent: talk for a couple of minutes?
+agent: What time would be convenient for a callback?
+user: Tomorrow. 
+agent: What time tomorrow would suit you for the callback?
+user: Morning, 9 AM. 
+agent: I’ll call you tomorrow at 9 AM. Thank you, take care.
+
+test 9:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: No. 
+agent: I’m sorry, I may have reached the wrong number. Thank you for your time.
+
+test 10:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yeah. 
+agent: Is this a good time to 
+user: Yeah. 
+agent: talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’ll ask a few quick questions to see if it suits you; what type of property is it?
+user: Agriculture. 
+agent: I’m sorry, but agricultural property doesn’t meet the criteria for this specific offer at this time. Thank you for your 
+agent: time.
+
+test 11:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it 
+user: I have 
+agent: suits you.
+user: already an EMA, but I want to reduce it right now. 
+agent: I understand. A loan transfer specialist will contact you shortly to discuss reducing your current EMI. Thank you for 
+agent: your time.
+
+test 12:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good 
+user: Yes. 
+agent: time to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it suits you. What type of property would you use: residential, commercial, or industrial?
+user: I already have a loan, current loan. 
+agent: Is that loan against this property?
+user: Yes. 
+agent: Thanks for letting me know. A loan transfer specialist will contact you shortly. Thank you for your 
+agent: time.
+
+test 13:
+
+agent: Hi, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time to talk for a couple of minutes?
+user: Yes. 
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions 
+user: But I already have a 
+agent: to see if it suits you.
+user: current loan going on. 
+agent: I understand. A loan transfer specialist will contact you shortly to help with your existing loan. Thank you for your time.
+user: Thank you. 
+agent: Thank you, take care.
+
+test 14:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a 
+user: Yes. 
+agent: good time to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions 
+user: Okay. 
+agent: to see if it suits you.
+agent: What type of property would you use: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you or jointly owned?
+user: Solely owned by me. 
+agent: Are the original property documents available for 
+user: Yes. 
+agent: How much would 
+user: 70 
+agent: you like to borrow?
+user: lakhs. 
+agent: What do you do for work, and is your income received 
+user: Income is received in cash. 
+agent: in your bank account or in cash?
+agent: I’m sorry, but you don’t meet the criteria for this specific offer at this time because the income needs to be received 
+agent: through a bank account. Thank you for your time.
+
+test 15:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with pranai?
+user: Yes. 
+agent: Is this a good 
+user: Yes. 
+agent: time to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up 
+user: Are 
+agent: to seventy-five lakh 
+user: you an agent? 
+agent: I’m Sofia, an AI assistant calling on behalf of TKR. I can ask a few quick questions, then a senior loan expert 
+user: Okay, you can ask the 
+agent: can assist with the details.
+user: questions. 
+agent: What type of property is it: residential, commercial, or industrial?
+user: Industrial. 
+agent: Is the property solely owned or jointly owned?
+user: Jointly owned. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to borrow?
+user: 70 lakhs. 
+user: No. 
+user: Yes. 
+agent: Are you salaried or self-employed, and does your income come into your bank account or in cash?
+user: Self-employed and income comes into bank account. 
+agent: What’s the approximate current market value of the property?
+user: 20 lakhs. 
+agent: Over how many years would you 
+user: 20 
+agent: like to repay the loan?
+user: years. 
+agent: I’m sorry, but this offer is available for repayment terms from three to fifteen years. You don’t meet the criteria for this specific offer at this time. Thank you for your time.
+user: Can I change the time again? 
+agent: I’m sorry, but this specific offer can’t proceed with a twenty-year tenure. Thank you for 
+user: I 
+agent: your time.
+user: would like to repay it in 15 years. 
+agent: I’m sorry, but the offer was closed after the earlier twenty-year tenure response. Thank you for your time.
+user: I'm ready to pay it in 15 years right now. 
+agent: I’m sorry, but this offer can’t be reopened after the earlier ineligible tenure. Thank you for your time.
+user: Why? But just now I, I did it right. 
+agent: I’m sorry, but the earlier twenty-year repayment term didn’t meet this offer’s criteria, so the call was closed. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Take care.
+
+test 16:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yeah, you're speaking to me. 
+agent: Is this a good time 
+user: Yes. 
+agent: to talk for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’d like to ask a few quick questions to see if it suits you—what type of property is it: residential, commercial, or industrial?
+user: Industrial. 
+agent: Is the industrial property solely owned or jointly owned?
+user: Solely owned. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to borrow?
+user: Pretty lax. 
+agent: Sorry, I didn’t catch 
+user: 80 
+agent: the loan amount. How much 
+user: lakhs. 80, 8-0. 
+agent: The offer maximum is seventy-five lakh rupees. Would you like to proceed with seventy-five lakh?
+user: Yes, I can. 
+agent: Are you salaried or self-employed, and is your income received in your bank account 
+user: I'm 
+agent: or in cash?
+user: self-employed and income is received into bank. 
+agent: What’s the approximate current market value of the property?
+user: About 50 lakhs. 
+agent: Over how many years would you like 
+user: 15 
+agent: to repay the loan?
+user: years. 
+agent: Thank you for sharing the details. Based on your answers, you appear to meet the basic requirements for this offer, and a senior loan expert will call you shortly with exact interest rates and the next steps. Thank you.
+user: Thanks. 
+agent: You’re welcome. Have a good 
+agent: day.
+
+test 17:
+
+agent: Hi, I'm Sofia calling from TKR.  Is this Pranai? 
+user: Yes. 
+agent: Is now a good 
+user: Yes. 
+agent: time for a couple of minutes? 
+agent: Great. As a TKR customer, you have a pre-approved loan against property for up to seventy-five lakh rupees.  I just have a few quick questions 
+user: Okay. 
+agent: to see if it's a good fit for you. 
+agent: What type of property is it — residential, commercial, or industrial? 
+user: Come on, Sheila. 
+agent: Sorry, could you tell me if the property is residential, commercial, or industrial? 
+user: Commercial. 
+agent: And is it solely owned, or jointly owned with family or partners? 
+user: Jointly owned. 
+agent: Are the original property documents available? 
+user: Yes. 
+agent: How much would you like to borrow? 
+user: 70 lakhs. 
+agent: And are you salaried or self-employed? 
+user: Self-employed. 
+agent: And does your income go into your 
+user: Mostly 
+agent: bank account, or is it mostly cash? 
+user: cash. 
+agent: I'm sorry, but this specific offer requires income through a bank account.  Thanks for your time. 
+
+test 18:
+
+agent: Hi, this is Sofia calling from TKR.  Is this Pranai? 
+user: Yes. 
+agent: Is now a good time for a couple of minutes? 
+user: Yeah. 
+agent: Great. As a TKR customer, you have a special pre-approved loan against property for up to seventy-five lakh rupees.  I just have a few quick questions to see if it's 
+user: Okay. 
+agent: a good fit for you. 
+agent: What kind of property is it — a house or flat, a shop or office, or a factory? 
+agent: What kind of property is it? 
+user: Shop. 
+agent: And is it solely owned, or jointly owned? 
+user: Jointly owned. 
+agent: Are the original property documents available? 
+user: No. 
+agent: I'm sorry, but this offer requires original property documents.  Thanks for your time. 
+
+test 19:
+
+agent: Hello, this is Sofia calling from TKR. Am I speaking with Pranai?
+user: Yeah, I am Pranay. 
+agent: Is this a good 
+user: Yes, you 
+agent: time to talk for a couple of minutes?
+user: can. 
+agent: As a valued TKR customer, you have a pre-approved Loan Against 
+user: Can we 
+agent: Property offer of 
+user: change the language? 
+agent: I can speak in English or Hindi. Which would you prefer?
+user: Hindi. 
+agent: जी, मैं हिंदी में बात कर सकती हूँ। एक संपत्ति के बदले ऋण में आपकी रुचि है?
+user: Can we change the language again? 
+agent: Yes, we can continue in English. Are you interested in a Loan Against Property?
+agent: Pranai, are you still there?
+
+test 20:
+
+agent: Hello, I’m Sofia calling from TKR. Am I speaking with Pranai?
+user: Yes. 
+agent: Is this a good time to talk for a 
+user: Yes. 
+agent: couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick questions to see 
+user: Yeah. You can. 
+agent: if it suits you?
+agent: What type of property is it: residential, commercial, or industrial?
+user: Industrial. 
+agent: Is the property solely owned by you or jointly owned with family or partners?
+user: Partners. 
+agent: Are the original property documents available for verification?
+user: No. 
+agent: I’m sorry, but original property documents are required for this specific offer, so you don’t meet the criteria at this time. Thank you for your time.
+
+test 21:
+
+agent: Hello, I’m Eda calling from TKR. Am I speaking with Pranai?
+user: Yeah. 
+agent: Is this a good time to talk 
+user: Yes. 
+agent: for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick questions to see if it suits you?
+user: Yeah. You can. 
+agent: What type of property is it: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you, or jointly owned?
+user: Jointly owned. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to borrow?
+user: Eighty lakhs. 
+agent: The offer maximum is seventy-five lakh rupees. Would you like to proceed with seventy-five lakh?
+user: No. 
+agent: Thank you for your time. We won't proceed with this 
+agent: offer.
+
+test 22:
+
+agent: Hello, I’m Eda calling from TKR. Am I speaking with Pranai?
+user: Yeah. 
+agent: Is this a good time to talk 
+user: Yes. 
+agent: for a couple of minutes?
+agent: As a valued TKR customer, you have a pre-approved Loan Against Property offer of up to seventy-five lakh rupees. May I ask a few quick questions to see if it suits you?
+user: Yeah. You can. 
+agent: What type of property is it: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you, or jointly owned?
+user: Jointly owned. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to borrow?
+user: Eighty lakhs. 
+agent: The offer maximum is seventy-five lakh rupees. Would you like to proceed with seventy-five lakh?
+user: No. 
+agent: Thank you for your time. We won't proceed with this 
+agent: offer.
+
+test 23:
+
+user: Hi. 
+agent: Hi, I’m Tharun, calling from TKR. Am I speaking with Pranai?
+user: Yeah. You're speaking with Pranek. 
+agent: Sorry, I may have the name slightly wrong. Are you Pranai?
+user: Yeah. I am Pranel. 
+agent: Okay, Pranel. Is this a good time to talk for 
+user: Yes. 
+agent: a couple of minutes?
+agent: As a valued TKR customer, you have a special pre-approved Loan Against Property offer of up to seventy-five lakh rupees. I’ll ask a few quick questions to see if it suits you—what type of property do you have: residential, commercial, or industrial?
+user: Commercial. 
+agent: Is the commercial property solely owned by you, or jointly owned with someone else?
+user: It's only owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. 
+agent: How much would you like to 
+user: I 
+agent: borrow?
+user: would like to borrow about sixty lakhs. 
+agent: Are you salaried or self-employed, and does your income come into your bank account or 
+user: I 
+agent: in cash?
+user: am salad on my income comes into my bank account. 
+agent: Got it, your income is credited to your bank account. What’s the approximate current market value of the property?
+user: It's about fifty lakhs. 
+agent: And over how many years would you like 
+user: In about ten 
+agent: to repay the loan?
+user: years. 
+agent: Thank you for sharing the details. Based on your answers, you appear to meet the basic requirements for this offer, and a senior loan expert will call you shortly with the exact 
+user: Thank you. 
+agent: interest rates and next steps.
+agent: You're welcome. Have a good 
+agent: day.
